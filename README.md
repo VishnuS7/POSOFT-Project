@@ -2,6 +2,7 @@
 ## Introduction for a Digital Payment Solution
 Welcome to the documentation for PaySoft digital payment solution! In this section, we will provide an overview of our innovative payment solution and its purpose. Our solution aims to revolutionize the way merchants accept payments by offering a seamless, secure, and convenient payment experience for both merchants and customers. Traditional point-of-sale (POS) machines can be cumbersome and limited in functionality, and our solution addresses these issues by leveraging cutting-edge technology, including blockchain and Self-Sovereign Identity (SSI), to streamline the payment process and provide added benefits to both merchants and customers.
 Digital payment solutions have revolutionized the way we pay for goods and services. With the rise of e-commerce, mobile payments, and online banking, it is more important than ever to have a secure and reliable digital payment solution.
+
 A good digital payment solution should be easy to use, fast, and secure. It should also offer a range of payment options, including credit cards, bank transfers, and mobile payments. By providing a seamless and convenient payment experience, digital payment solutions can help businesses increase sales and improve customer satisfaction.
 
 ## Vision
@@ -12,19 +13,19 @@ Our mission is to revolutionize the way payments are made by providing a seamles
 
 
 ## Use Case/ How it works!
-- The customer visits a store or restaurant that uses the POSOFT digital payment system.
-- After selecting items or services, the customer proceeds to the payment process.
-- The customer then scans the items and taps on the POSOFT enabled device using their smartphone or card to make the payment.
-- The transaction is confirmed, and the goods or services are delivered to the customer.
-- The transaction details are securely recorded on the blockchain ledger for transparency and security purposes.
-- The merchant receives the payment and is charged the fixed transaction fees, and the customer's card or wallet is charged the total bill amount.
-- The customer can also track their transaction history and manage their payments using the POSOFT mobile app.
-- By using POSOFT, customers can enjoy a convenient, fast, and secure payment experience, while merchants can save on transaction fees, reduce the cost of maintaining traditional POS systems, and enhance their business operations.
+1) The customer visits a store or restaurant that uses the POSOFT digital payment system.
+2) After selecting items or services, the customer proceeds to the payment process.
+3) The customer then scans the items and taps on the POSOFT enabled device using their smartphone or card to make the payment.
+4) The transaction is confirmed, and the goods or services are delivered to the customer.
+5) The transaction details are securely recorded on the blockchain ledger for transparency and security purposes.
+6) The merchant receives the payment and is charged the fixed transaction fees, and the customer's card or wallet is charged the total bill amount.
+7) The customer can also track their transaction history and manage their payments using the POSOFT mobile app.
+8) By using POSOFT, customers can enjoy a convenient, fast, and secure payment experience, while merchants can save on transaction fees, reduce the cost of maintaining traditional POS systems, and enhance their business operations.
 
 
 ## Market Analysis
 In this section, we will conduct a thorough market analysis to provide insights into the current landscape of digital payments and the market need for our solution. The digital payments market has been experiencing rapid growth, with increasing adoption of mobile payments, contactless payments, and other digital payment methods. According to recent statistics, the global digital payments market is projected to reach $310 billion by 2030, with a CAGR of 18.6% from 2022 to 2030.
-The Digital Payments segment is anticipated to witness substantial growth in the coming years, with the total transaction value expected to reach US$9.46tn in 2023. Also, the segment is projected to exhibit a robust compound annual growth rate (CAGR) of 11.80% between 2023 and 2027, resulting in a projected total transaction value of US$14.78tn by 2027. Among the various segments within the market, Digital Commerce is anticipated to be the largest, with a projected total transaction value of US$6.03tn in 2023. These projections highlight the significant growth potential of the Digital Payments market soon.
+The Digital Payments segment is anticipated to witness substantial growth in the coming years, with the total transaction value expected to reach US$9.46tn in 2023. Also, the segment is projected to exhibit a robust compound annual growth rate (CAGR) of 11.80% between 2023 and 2027, resulting in a projected total transaction value of US$14.78tn by 2027. Among the various segments within the market, Digital Commerce is anticipated to be the largest, with a projected total transaction value of US$6.03tn in 2023. These projections highlight the significant growt1potential of the Digital Payments market soon.
 
 Furthermore, there are several factors driving the demand for innovative payment solutions like ours. These include the growing preference for contactless payments due to the COVID-19 pandemic, the increasing use of smartphones and other mobile devices for payment transactions, and the need for businesses to offer convenient and secure payment options to their customers. With increasing instances of fraud and data breaches, businesses and customers alike are seeking solutions that provide enhanced security and trust in the payment process. Our blockchain-based solution addresses these concerns by leveraging the inherent security and transparency of blockchain technology, and by utilizing SSI to prevent fraud from the merchant's side or from any employees working at the merchant store.
 
@@ -42,27 +43,27 @@ To ensure the financial viability of our business, we have conducted financial f
 ## Market Strategy
 In this section, we will outline our market strategy for promoting and establishing our digital payment solution in the market. Our strategy encompasses several key elements:
 
-1) **Target Market**: We have identified our target market as small and medium size businesses and could also include integrating with banks. We will focus our efforts on reaching out to this target market through various marketing channels and strategies.
+- **Target Market**: We have identified our target market as small and medium size businesses and could also include integrating with banks. We will focus our efforts on reaching out to this target market through various marketing channels and strategies.
 
-2) **Branding and Messaging**: We will develop a strong brand identity and messaging that highlights the key benefits of our digital payment solution, such as its security, convenience, and efficiency. Our branding and messaging will be consistent across all marketing materials and channels, including our website, social media, and promotional materials.
+- **Branding and Messaging**: We will develop a strong brand identity and messaging that highlights the key benefits of our digital payment solution, such as its security, convenience, and efficiency. Our branding and messaging will be consistent across all marketing materials and channels, including our website, social media, and promotional materials.
 
-3) **Marketing Channels**: We will leverage various marketing channels to reach our target market, including online marketing, content marketing, social media marketing, email marketing, and targeted advertising. We will also explore partnerships with relevant industry influencers, blogs, and publications to increase our brand visibility and reach.
+- **Marketing Channels**: We will leverage various marketing channels to reach our target market, including online marketing, content marketing, social media marketing, email marketing, and targeted advertising. We will also explore partnerships with relevant industry influencers, blogs, and publications to increase our brand visibility and reach.
 
-4) **Customer Acquisition**: We will implement customer acquisition strategies, such as offering special promotions, incentives, and discounts to attract merchants and customers to adopt our digital payment solution. We will also provide excellent customer service and support to ensure a positive experience for our customers, leading to word-of-mouth referrals and customer retention.
+- **Customer Acquisition**: We will implement customer acquisition strategies, such as offering special promotions, incentives, and discounts to attract merchants and customers to adopt our digital payment solution. We will also provide excellent customer service and support to ensure a positive experience for our customers, leading to word-of-mouth referrals and customer retention.
 
-5) **Partnerships**: We will explore strategic partnerships with key stakeholders in the payment ecosystem, such as payment processors, financial institutions, and technology partners, to enhance our solution's capabilities and reach. These partnerships can also help us expand our customer base and market presence.
+- **Partnerships**: We will explore strategic partnerships with key stakeholders in the payment ecosystem, such as payment processors, financial institutions, and technology partners, to enhance our solution's capabilities and reach. These partnerships can also help us expand our customer base and market presence.
 
 
 ## Implementation Plan
 In this section, we will outline our implementation plan for launching and scaling our digital payment solution. Our implementation plan includes the following key elements:
 
-a) **Development and Testing**: We will continue to develop and refine our digital payment solution, including its blockchain and SSI components, to ensure it meets the highest standards of security, usability, and functionality. We will also conduct extensive testing and quality assurance processes to identify and fix any issues or bugs.
+- **Development and Testing**: We will continue to develop and refine our digital payment solution, including its blockchain and SSI components, to ensure it meets the highest standards of security, usability, and functionality. We will also conduct extensive testing and quality assurance processes to identify and fix any issues or bugs.
 
-b) **Pilot Program**: We will conduct a pilot program to test our solution with a small group of merchants and customers in a controlled environment. This will allow us to gather feedback, identify any areas for improvement, and validate the effectiveness and usability of our solution.
+- **Pilot Program**: We will conduct a pilot program to test our solution with a small group of merchants and customers in a controlled environment. This will allow us to gather feedback, identify any areas for improvement, and validate the effectiveness and usability of our solution.
 
-c) **Launch Plan**: Once the pilot program is successful, we will launch our digital payment solution in the market. Our launch plan will include a comprehensive marketing campaign to create awareness, generate interest, and attract merchants and customers to adopt our solution. We will also provide thorough documentation, training, and support to ensure a smooth onboarding process for our customers.
+- **Launch Plan**: Once the pilot program is successful, we will launch our digital payment solution in the market. Our launch plan will include a comprehensive marketing campaign to create awareness, generate interest, and attract merchants and customers to adopt our solution. We will also provide thorough documentation, training, and support to ensure a smooth onboarding process for our customers.
 
-d) **Scaling Strategy**: After the initial launch, we will focus on scaling our solution by expanding our customer base, increasing transaction volume, and exploring new markets and geographies. We will continue to refine our marketing strategies, customer acquisition tactics, and partnerships to drive adoption and growth.
+- **Scaling Strategy**: After the initial launch, we will focus on scaling our solution by expanding our customer base, increasing transaction volume, and exploring new markets and geographies. We will continue to refine our marketing strategies, customer acquisition tactics, and partnerships to drive adoption and growth.
 
 ## Revenue Forecasts:
 Based on market research and industry analysis, the projected revenue for the digital payment solution is expected to grow steadily over the next five years. The revenue will primarily come from transaction fees charged to merchants for each transaction processed through the app. The fixed amount per transaction will be $0.50, which is competitive in the market and provides a cost-effective solution for merchants compared to traditional POS machines.
